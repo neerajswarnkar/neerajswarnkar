@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to roam around
 
 ### Languages and Tools:
-![html][<img align="left" alt="html5" width="25px" src="https://user-images.githubusercontent.com/41924826/94284056-7e154f80-ff6f-11ea-8ccb-413c9be28864.png" />]
+![<img align="left" alt="html5" width="25px" src="https://user-images.githubusercontent.com/41924826/94284056-7e154f80-ff6f-11ea-8ccb-413c9be28864.png" />]
 
 ![css](https://user-images.githubusercontent.com/41924826/94284326-d5b3bb00-ff6f-11ea-8678-60ed870f7b37.png)
 ![javascript](https://user-images.githubusercontent.com/41924826/94284345-dba99c00-ff6f-11ea-975d-7dc1e05f9a0e.png)

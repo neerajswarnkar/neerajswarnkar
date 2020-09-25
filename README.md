@@ -22,6 +22,7 @@
 <img align="left" alt="html5" width="30px" src="https://user-images.githubusercontent.com/41924826/94285182-fdefe980-ff70-11ea-90c5-eab58c1a354b.png" />
 <img align="left" alt="html5" width="30px" src="https://user-images.githubusercontent.com/41924826/94285162-f9c3cc00-ff70-11ea-82b0-f81083e0835e.png" />
 
+<br>
 ### Connect with me:
 
 [<img align="left" alt="neerajSwarnkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

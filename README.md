@@ -1,7 +1,7 @@
 ## Hi there, I'm Neeraj Swarnkar - aka NRJ 👋
 
 ### I'm a Front end engineer! I have been involve in designing and development of web application.
-- 🔭 I’m currently exploaring micro-serices with NodeJs!
+- 🔭 I’m currently exploaring Microservices with Node JS and React!
 - 🌱 I’m spreading my exposure towards MongoDB
 - 👯 I’m looking for a techie for collaboration
 - 🥅 2024 Goals: MERN Stack Developer

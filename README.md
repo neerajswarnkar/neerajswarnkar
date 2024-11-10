@@ -1,10 +1,10 @@
 ## Hi there, I'm Neeraj Swarnkar - aka NRJ 👋
 
 ### I'm a Front end engineer! I have been involve in designing and development of web application.
-- 🔭 I’m currently working on a Burger-Builder(Fun project on React)!
+- 🔭 I’m currently exploaring micro-serices with NodeJs!
 - 🌱 I’m spreading my exposure towards MongoDB
 - 👯 I’m looking for a techie for collaboration
-- 🥅 2020 Goals: MERN Stack Developer
+- 🥅 2024 Goals: MERN Stack Developer
 - ⚡ Fun fact: I love to roam around
 
 ### Languages and Tools:
@@ -22,7 +22,8 @@
 <img align="left" alt="html5" width="30px" src="https://user-images.githubusercontent.com/41924826/94285182-fdefe980-ff70-11ea-90c5-eab58c1a354b.png" />
 <img align="left" alt="html5" width="30px" src="https://user-images.githubusercontent.com/41924826/94285162-f9c3cc00-ff70-11ea-82b0-f81083e0835e.png" />
 
-<br>
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="neerajSwarnkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
